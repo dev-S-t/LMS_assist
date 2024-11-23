@@ -5,3 +5,5 @@ protobuf==5.28.3
 pydantic==1.10.19
 Requests==2.32.3
 sentence_transformers==3.3.1
+uvicorn
+google-generativeai
